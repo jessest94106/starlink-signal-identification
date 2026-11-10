@@ -1,0 +1,6 @@
+c224056 11.575GHz T0: LS not      SAT-53978  rmse    2.8 2nd    2.9 | web none  SAT-49438     3900 Hz | ours None
+c224056 11.575GHz T1: LS not      SAT-57900  rmse    5.0 2nd    6.0 | web none  SAT-52352     7388 Hz | ours SAT-53973
+c224056 11.575GHz T2: LS not      SAT-45072  rmse    2.3 2nd    3.2 | web none  SAT-58711     3926 Hz | ours SAT-66177
+c224056 11.575GHz T3: LS not      SAT-53606  rmse    4.6 2nd    8.9 | web none  SAT-57449     3981 Hz | ours SAT-53606
+c224056 11.575GHz T4: LS not      SAT-53606  rmse   17.0 2nd   17.6 | web none  SAT-59556     4690 Hz | ours SAT-53606
+c224056 11.575GHz T5: LS not      SAT-53258  rmse    1.9 2nd    2.9 | web none  SAT-62428     2878 Hz | ours SAT-53610

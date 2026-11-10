@@ -1,0 +1,15 @@
+start offset scan (s: median RMS Hz): 0.00:23 4.00:35 8.00:11 9.00:8 10.00:9 14.00:33 18.00:47 22.00:37 26.00:26 30.00:45 34.00:58 38.00:40 42.00:33 46.00:39 50.00:46 54.00:37 58.00:40 62.00:35 66.00:34 70.00:40
+best start = 2026-05-04T20:46:14Z + 8.75 s
+track 0: unknown   SAT-49434  rms    44.1 Hz  ratio     3.2  offset   -95.64 kHz  dt -0.30 s  next: ('SAT-63043', 139.04395014087177)
+track 1: accepted  SAT-52345  rms     4.8 Hz  ratio    34.4  offset   -97.50 kHz  dt +0.60 s  next: ('SAT-63043', 165.90102517301546)
+track 2: unknown   SAT-49434  rms    16.4 Hz  ratio     3.3  offset   -96.25 kHz  dt -0.59 s  next: ('SAT-63043', 54.86483602633307)
+track 3: ambiguous SAT-53282  rms     2.8 Hz  ratio     2.0  offset  -246.72 kHz  dt -0.01 s  next: ('SAT-50846', 5.57629523649564)
+track 4: unknown   SAT-47823  rms    29.6 Hz  ratio     1.8  offset   275.05 kHz  dt +0.92 s  next: ('SAT-53722', 54.020059486028565)
+track 5: accepted  SAT-57680  rms     2.5 Hz  ratio    33.5  offset   -88.90 kHz  dt +0.08 s  next: ('SAT-66465', 84.05023195845406)
+track 6: unknown   SAT-52373  rms    24.4 Hz  ratio     1.4  offset  -245.71 kHz  dt -0.65 s  next: ('SAT-50165', 33.8828187633082)
+track 7: ambiguous SAT-65497  rms     5.0 Hz  ratio     1.5  offset   -75.49 kHz  dt +0.57 s  next: ('SAT-66061', 7.506908392837082)
+track 8: ambiguous SAT-48462  rms     9.3 Hz  ratio     1.2  offset   275.02 kHz  dt +0.25 s  next: ('SAT-45080', 11.054667545886458)
+track 9: accepted  SAT-49444  rms     6.1 Hz  ratio     3.5  offset   -82.33 kHz  dt +0.48 s  next: ('SAT-63671', 21.215097272552185)
+track 10: accepted  SAT-49444  rms     1.5 Hz  ratio    70.1  offset   -83.14 kHz  dt +0.09 s  next: ('SAT-47778', 104.96350359564912)
+track 11: accepted  SAT-57663  rms     6.2 Hz  ratio    20.5  offset   -90.10 kHz  dt -0.79 s  next: ('SAT-62508', 126.32966358589738)
+track 12: unknown   SAT-59368  rms    29.6 Hz  ratio     1.4  offset   -99.45 kHz  dt -1.09 s  next: ('SAT-49442', 40.29875752035957)

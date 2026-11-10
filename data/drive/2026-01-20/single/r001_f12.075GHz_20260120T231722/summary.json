@@ -1,0 +1,12 @@
+{
+ "file": "single__r001_f12.075GHz_20260120T231722.sigmf-data",
+ "fc": 12075000000.0,
+ "duration_s": 300.761664,
+ "tracks": 4,
+ "start_file": "2026-01-20T23:12:22.000",
+ "start_fingerprint": "2026-01-20T23:12:06.500",
+ "start_switches": "2026-01-20T23:12:06.500",
+ "switches": 0,
+ "switch_phase_spread_s": null,
+ "result": "confirmed: 0 IDs + 0 not-LEO = 0 of 4 (0%); IDs 0 of 4 satellite-like (0%)"
+}

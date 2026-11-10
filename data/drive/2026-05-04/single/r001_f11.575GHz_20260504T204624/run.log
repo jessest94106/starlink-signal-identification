@@ -1,0 +1,3 @@
+{"file": "r001_f11.575GHz_20260504T204624.sigmf-data", "fc": 11575000000.0, "duration_s": 900.0, "tracks": 9, "start_file": "2026-05-04T20:46:24.000", "start_fingerprint": "2026-05-04T20:46:22.750", "start_switches": "2026-05-04T20:46:21.500", "switches": 7, "switch_phase_spread_s": 0.04948711873590021, "result": "confirmed: 7 IDs + 1 not-LEO = 8 of 9 (89%); IDs 7 of 8 satellite-like (88%)"}
+/home/jesse/starlink/norad_id.py:202: RuntimeWarning: invalid value encountered in scalar divide
+  ratio = r2 / max(r1, 1e-9)

@@ -1,0 +1,12 @@
+track 0: LS unknown    SAT-53604  rmse    68.2 2nd SAT-54097     88.7 | web none  SAT-66073    11442 Hz
+track 1: LS unknown    SAT-53703  rmse    34.2 2nd SAT-66368    120.7 | web none  SAT-59871    10798 Hz
+track 2: LS unknown    SAT-60583  rmse    73.7 2nd SAT-47821    159.3 | web none  SAT-67843    17208 Hz
+track 3: LS ambiguous  SAT-53604  rmse     6.6 2nd SAT-50204      7.0 | web none  SAT-59366     2642 Hz
+track 4: LS ambiguous  SAT-65412  rmse     3.5 2nd SAT-62950      3.5 | web match SAT-62437      700 Hz
+track 5: LS ambiguous  SAT-55634  rmse     5.3 2nd SAT-63676      5.4 | web none  SAT-56692     5171 Hz
+track 6: LS unknown    SAT-58713  rmse    89.5 2nd SAT-56797    111.8 | web none  SAT-57121     9259 Hz
+track 7: LS ambiguous  SAT-56780  rmse     9.3 2nd SAT-46156     10.4 | web none  SAT-53834     3782 Hz
+track 8: LS unknown    SAT-65871  rmse    18.9 2nd SAT-46718     19.2 | web match SAT-57121     1237 Hz
+track 9: LS ambiguous  SAT-47797  rmse    14.6 2nd SAT-58847     14.8 | web none  SAT-65871     5353 Hz
+track 10: LS ambiguous  SAT-65427  rmse     6.5 2nd SAT-53924      7.4 | web none  SAT-53914     7252 Hz
+track 11: LS unknown    SAT-53604  rmse 16064.3 2nd SAT-53924  16198.0 | web none  SAT-57366     6192 Hz

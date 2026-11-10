@@ -1,0 +1,12 @@
+{
+ "file": "r001_f11.575GHz_20260504T224056.sigmf-data",
+ "fc": 11575000000.0,
+ "duration_s": 300.0,
+ "tracks": 5,
+ "start_file": "2026-05-04T22:40:56.000",
+ "start_fingerprint": "2026-05-04T22:40:54.750",
+ "start_switches": "2026-05-04T22:40:53.800",
+ "switches": 6,
+ "switch_phase_spread_s": 0.047140407122464756,
+ "result": "confirmed: 5 IDs + 0 not-LEO = 5 of 5 (100%); IDs 5 of 5 satellite-like (100%)"
+}

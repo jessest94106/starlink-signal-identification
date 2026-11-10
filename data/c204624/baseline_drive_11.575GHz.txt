@@ -1,0 +1,13 @@
+c204624 11.575GHz T0: LS not      SAT-60064  rmse   36.7 2nd   36.7 | web none  SAT-63487     3349 Hz | ours SAT-49434
+c204624 11.575GHz T1: LS not      SAT-52345  rmse    2.4 2nd    2.4 | web none  SAT-50846     4797 Hz | ours None
+c204624 11.575GHz T2: LS not      SAT-52359  rmse   13.2 2nd   13.4 | web none  SAT-60046     6008 Hz | ours None
+c204624 11.575GHz T3: LS not      SAT-50176  rmse    2.8 2nd    2.8 | web none  SAT-67931     7453 Hz | ours None
+c204624 11.575GHz T4: LS not      SAT-50846  rmse    2.8 2nd    2.8 | web none  SAT-53489     9174 Hz | ours None
+c204624 11.575GHz T5: LS not      SAT-65326  rmse    2.7 2nd    3.6 | web none  SAT-64724     3079 Hz | ours SAT-57680
+c204624 11.575GHz T6: LS not      SAT-50846  rmse    2.8 2nd    2.8 | web none  SAT-63285     6533 Hz | ours None
+c204624 11.575GHz T7: LS not      SAT-67866  rmse    2.5 2nd    3.1 | web none  SAT-47844     3852 Hz | ours None
+c204624 11.575GHz T8: LS not      SAT-50846  rmse    3.0 2nd    3.0 | web none  SAT-65371     9112 Hz | ours None
+c204624 11.575GHz T9: LS not      SAT-58412  rmse    2.6 2nd    2.7 | web none  SAT-64759     4606 Hz | ours SAT-49444
+c204624 11.575GHz T10: LS not      SAT-53630  rmse    1.7 2nd    1.9 | web none  SAT-48458     3453 Hz | ours SAT-49444
+c204624 11.575GHz T11: LS not      SAT-67853  rmse    2.9 2nd    2.9 | web none  SAT-46786     3427 Hz | ours SAT-57663
+c204624 11.575GHz T12: LS not      SAT-64247  rmse   27.1 2nd   27.1 | web none  SAT-66079     4620 Hz | ours SAT-49442

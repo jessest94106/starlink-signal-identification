@@ -1,0 +1,14 @@
+T3 SAT-53592 removed -> unknown None
+T6 SAT-59380 removed -> unknown None
+T7 SAT-53797 removed -> unknown None
+T8 SAT-64427 removed -> unknown None
+T10 SAT-66188 removed -> unknown None
+T11 SAT-53613 removed -> unknown None
+T12 SAT-49419 removed -> unknown None
+T14 SAT-53613 removed -> unknown None
+T15 SAT-53823 removed -> unknown None
+T16 SAT-59394 removed -> unknown None
+T17 SAT-53823 removed -> unknown None
+T18 SAT-53823 removed -> unknown None
+T20 SAT-51462 removed -> unknown None
+0 of 13 accepted tracks confidently re-labelled when their satellite was removed

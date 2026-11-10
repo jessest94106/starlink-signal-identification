@@ -1,0 +1,29 @@
+# Reference defaults; active settings are persisted in SQLite.
+receiver:
+  center_frequency_hz: 12325000000.0
+  sample_rate_hz: 500000.0
+  gain_db: 35.0
+  bandwidth_hz: 500000.0
+processing:
+  detector:
+    epoch_duration_s: 0.01
+    cfar_training_bins_per_side: 220
+    cfar_guard_bins_per_side: 4
+    cfar_excluded_lower_hz: -12500.0
+    cfar_excluded_upper_hz: 22500.0
+    cfar_false_alarm_probability: 3.0e-05
+  tentative:
+    confirmation_window_epochs: 100
+    minimum_hits: 10
+    association_radius_bins: 3.0
+    minimum_decrease_rate_hz_per_s: 1600.0
+  kalman:
+    gate_sigma: 3.0
+    measurement_std_bins: 1.0
+    initial_rate_std_bins_per_epoch: 0.1
+    acceleration_std_bins_per_epoch2: 0.003
+  manager:
+    maximum_confirmed_tracks: 5
+    maximum_tentative_tracks: 256
+    confirmed_maximum_missed_epochs: 100
+    maximum_upward_jitter_bins: 1

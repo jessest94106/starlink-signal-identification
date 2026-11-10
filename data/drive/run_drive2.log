@@ -1,0 +1,66 @@
+skip /home/jesse/starlink/data/drive/2025-12-17/single/r001_f11.200GHz_20251217T203341
+skip /home/jesse/starlink/data/drive/2025-12-17/single/r001_f11.325GHz_20251217T203552
+FAILED download r001_f11.575GHz_20260120T230606.sigmf-data
+FAILED download r001_f11.825GHz_20260120T231150.sigmf-data
+FAILED download r001_f12.075GHz_20260120T231722.sigmf-data
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r001_f11.575GHz_20260206T211753
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r001_f12.325GHz_20260206T212307
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r002_f11.575GHz_20260206T212821
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r002_f12.325GHz_20260206T213335
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r003_f11.575GHz_20260206T213849
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r003_f12.325GHz_20260206T214403
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r004_f11.575GHz_20260206T214916
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r004_f12.325GHz_20260206T215430
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r005_f11.575GHz_20260206T215943
+skip /home/jesse/starlink/data/drive/2026-02-06/single/r005_f12.325GHz_20260206T220457
+skip /home/jesse/starlink/data/drive/2026-03-03/same_direction_cross_rx1/r001_f11.575GHz_20260303T190538
+skip /home/jesse/starlink/data/drive/2026-03-03/same_direction_cross_rx1/r001_f12.325GHz_20260303T190642
+skip /home/jesse/starlink/data/drive/2026-03-03/same_direction_cross_rx2/r001_f11.575GHz_20260303T190538
+skip /home/jesse/starlink/data/drive/2026-03-03/same_direction_cross_rx2/r001_f12.325GHz_20260303T190631
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx1/r001_f11.575GHz_20260305T202408
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx1/r001_f12.325GHz_20260305T202931
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx1/r002_f11.575GHz_20260305T203455
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx1/r002_f12.325GHz_20260305T204018
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx1/r003_f11.575GHz_20260305T204542
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx1/r003_f12.325GHz_20260305T205105
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx2/r001_f11.575GHz_20260305T202407
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx2/r001_f12.325GHz_20260305T202920
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx2/r002_f11.575GHz_20260305T203434
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx2/r002_f12.325GHz_20260305T203947
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx2/r003_f11.575GHz_20260305T204459
+skip /home/jesse/starlink/data/drive/2026-03-05/diff_directions_rx2/r003_f12.325GHz_20260305T205013
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_extra_rx1/r001_f11.575GHz_20260305T200403
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_extra_rx1/r001_f12.325GHz_20260305T200928
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_extra_rx2/r001_f11.575GHz_20260305T200402
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_extra_rx2/r001_f12.325GHz_20260305T200916
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx1/r001_f11.575GHz_20260305T192710
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx1/r001_f12.325GHz_20260305T193234
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx1/r002_f11.575GHz_20260305T193759
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx1/r002_f12.325GHz_20260305T194323
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx1/r003_f11.575GHz_20260305T194848
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx1/r003_f12.325GHz_20260305T195412
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx2/r001_f11.575GHz_20260305T192710
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx2/r001_f12.325GHz_20260305T193224
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx2/r002_f11.575GHz_20260305T193737
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx2/r002_f12.325GHz_20260305T194250
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx2/r003_f11.575GHz_20260305T194803
+skip /home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx2/r003_f12.325GHz_20260305T195317
+skip /home/jesse/starlink/data/drive/2026-03-09/moving_away_moving/r001_f11.575GHz_20260309T214758
+skip /home/jesse/starlink/data/drive/2026-03-09/moving_away_static/r001_f11.575GHz_20260309T214757
+skip /home/jesse/starlink/data/drive/2026-03-09/moving_fast_moving/r001_f11.575GHz_20260309T215542
+skip /home/jesse/starlink/data/drive/2026-03-09/moving_fast_static/r001_f11.575GHz_20260309T215540
+skip /home/jesse/starlink/data/drive/2026-03-09/moving_toward_moving/r001_f11.575GHz_20260309T214128
+skip /home/jesse/starlink/data/drive/2026-03-09/moving_toward_static/r001_f11.575GHz_20260309T214127
+skip /home/jesse/starlink/data/drive/2026-03-09/opposite_sides_static_rx1/r001_f11.575GHz_20260309T211111
+skip /home/jesse/starlink/data/drive/2026-03-09/opposite_sides_static_rx1/r001_f12.325GHz_20260309T211633
+skip /home/jesse/starlink/data/drive/2026-03-09/opposite_sides_static_rx1/r002_f11.575GHz_20260309T212155
+FAILED download r002_f12.325GHz_20260309T212717.sigmf-data
+FAILED download r001_f11.575GHz_20260309T211110.sigmf-data
+FAILED download r001_f12.325GHz_20260309T211623.sigmf-data
+FAILED download r002_f11.575GHz_20260309T212136.sigmf-data
+FAILED download r002_f12.325GHz_20260309T212649.sigmf-data
+FAILED download r003_f11.575GHz_20260309T213201.sigmf-data
+done /home/jesse/starlink/data/drive/2026-05-04/single/r001_f11.575GHz_20260504T204624
+skip /home/jesse/starlink/data/drive/2026-05-04/single/r001_f11.575GHz_20260504T224056
+done /home/jesse/starlink/data/drive/2026-05-04/single/r001_f12.325GHz_20260504T213016
+done /home/jesse/starlink/data/drive/2026-05-04/single/r001_f12.325GHz_20260504T224612

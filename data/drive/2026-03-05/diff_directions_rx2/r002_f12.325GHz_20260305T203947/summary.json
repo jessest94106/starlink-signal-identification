@@ -1,0 +1,12 @@
+{
+ "file": "diff_directions_rx2__r002_f12.325GHz_20260305T203947.sigmf-data",
+ "fc": 12325000000.0,
+ "duration_s": 300.0,
+ "tracks": 7,
+ "start_file": "2026-03-05T20:39:47.000",
+ "start_fingerprint": "2026-03-05T20:39:46.500",
+ "start_switches": "2026-03-05T20:39:46.500",
+ "switches": 0,
+ "switch_phase_spread_s": null,
+ "result": "confirmed: 0 IDs + 1 not-LEO = 1 of 7 (14%); IDs 0 of 6 satellite-like (0%)"
+}

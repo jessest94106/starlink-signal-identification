@@ -1,0 +1,99 @@
+capture                                                         min  trk conf line look  amb  unk unkL  start(file-switch) s
+2025-12-17/single/r001_f11.200GHz_20251217T203341               2.0    0    0    0    0    0    0    0  
+2025-12-17/single/r001_f11.325GHz_20251217T203552               2.0    0    0    0    0    0    0    0  
+2026-01-20/single/r001_f11.575GHz_20260120T230606               5.0    5    0    1    0    0    4    3   +7.75 (0 switches)
+2026-01-20/single/r001_f11.825GHz_20260120T231150               5.0   11    0    1    0    0   10    0  +10.50 (0 switches)
+2026-01-20/single/r001_f12.075GHz_20260120T231722               5.0    4    0    0    0    0    4    2  +15.50 (0 switches)
+2026-02-06/single/r001_f11.575GHz_20260206T211753               5.0    9    6    1    0    0    2    0   -1.50 (1 switches)
+2026-02-06/single/r001_f12.325GHz_20260206T212307               5.0    6    1    1    0    0    4    2   -0.25 (1 switches)
+2026-02-06/single/r002_f11.575GHz_20260206T212821               5.0    6    2    1    0    0    3    2   -1.50 (0 switches)
+2026-02-06/single/r002_f12.325GHz_20260206T213335               5.0   14    5    1    0    0    8    2   -1.25 (1 switches)
+2026-02-06/single/r003_f11.575GHz_20260206T213849               5.0    4    2    1    0    0    1    1   -1.25 (0 switches)
+2026-02-06/single/r003_f12.325GHz_20260206T214403               5.0    9    0    1    0    0    8    3   +0.00 (0 switches)
+2026-02-06/single/r004_f11.575GHz_20260206T214916               5.0    5    2    1    0    0    2    2   -0.50 (2 switches)
+2026-02-06/single/r004_f12.325GHz_20260206T215430               5.0    5    3    1    0    0    1    0   +0.00 (3 switches)
+2026-02-06/single/r005_f11.575GHz_20260206T215943               5.0    6    4    1    0    0    1    0   -0.25 (2 switches)
+2026-02-06/single/r005_f12.325GHz_20260206T220457               5.0    2    0    0    0    0    2    1   -0.50 (0 switches)
+2026-03-03/same_direction_cross_rx1/r001_f11.575GHz_20260303T190538  0.8    3    0    0    0    0    3    0   +1.25 (0 switches)
+2026-03-03/same_direction_cross_rx1/r001_f12.325GHz_20260303T190642  0.8    1    0    0    0    0    1    0   -6.75 (0 switches)
+2026-03-03/same_direction_cross_rx2/r001_f11.575GHz_20260303T190538  0.8    3    0    0    0    0    3    1   +0.75 (0 switches)
+2026-03-03/same_direction_cross_rx2/r001_f12.325GHz_20260303T190631  0.8    3    0    0    0    0    3    0  -13.75 (0 switches)
+2026-03-05/diff_directions_rx1/r001_f11.575GHz_20260305T202408  5.0   29   17    1    1    6    4    3   -0.30 (33 switches)
+2026-03-05/diff_directions_rx1/r001_f12.325GHz_20260305T202931  5.0   15   12    0    0    0    3    2   -0.60 (19 switches)
+2026-03-05/diff_directions_rx1/r002_f11.575GHz_20260305T203455  5.0   20   18    0    0    1    1    1   -0.20 (33 switches)
+2026-03-05/diff_directions_rx1/r002_f12.325GHz_20260305T204018  5.0   20   15    0    0    1    4    2   -0.80 (16 switches)
+2026-03-05/diff_directions_rx1/r003_f11.575GHz_20260305T204542  5.0   33   26    1    0    3    3    2   -0.50 (48 switches)
+2026-03-05/diff_directions_rx1/r003_f12.325GHz_20260305T205105  5.0   34   25    0    1    2    6    3   -0.80 (34 switches)
+2026-03-05/diff_directions_rx2/r001_f11.575GHz_20260305T202407  5.0    4    2    1    0    0    1    1   -1.00 (0 switches)
+2026-03-05/diff_directions_rx2/r001_f12.325GHz_20260305T202920  5.0    6    0    1    0    0    5    2   -1.25 (0 switches)
+2026-03-05/diff_directions_rx2/r002_f11.575GHz_20260305T203434  5.0    8    3    1    0    0    4    1   -0.75 (2 switches)
+2026-03-05/diff_directions_rx2/r002_f12.325GHz_20260305T203947  5.0    7    0    1    0    0    6    3   +0.50 (0 switches)
+2026-03-05/diff_directions_rx2/r003_f11.575GHz_20260305T204459  5.0   14    4    1    0    0    9    4   -0.75 (1 switches)
+2026-03-05/diff_directions_rx2/r003_f12.325GHz_20260305T205013  5.0    8    0    1    0    0    7    4   -0.50 (0 switches)
+2026-03-05/same_direction_extra_rx1/r001_f11.575GHz_20260305T200403  5.0    8    6    0    0    0    2    0   -0.80 (3 switches)
+2026-03-05/same_direction_extra_rx1/r001_f12.325GHz_20260305T200928  5.0   15    7    0    1    0    7    1   -0.20 (3 switches)
+2026-03-05/same_direction_extra_rx2/r001_f11.575GHz_20260305T200402  5.0    7    1    2    0    0    4    2   -1.00 (1 switches)
+2026-03-05/same_direction_extra_rx2/r001_f12.325GHz_20260305T200916  5.0   13    4    2    0    2    5    0   -0.10 (3 switches)
+2026-03-05/same_direction_main_rx1/r001_f11.575GHz_20260305T192710  5.0   17   10    2    0    0    5    3   -0.75 (12 switches)
+2026-03-05/same_direction_main_rx1/r001_f12.325GHz_20260305T193234  5.0   12    8    0    0    0    4    2   -1.20 (11 switches)
+2026-03-05/same_direction_main_rx1/r002_f11.575GHz_20260305T193759  5.0   25   17    0    0    3    5    2   -0.40 (26 switches)
+2026-03-05/same_direction_main_rx1/r002_f12.325GHz_20260305T194323  5.0   13    8    1    0    0    4    1   -0.10 (9 switches)
+2026-03-05/same_direction_main_rx1/r003_f11.575GHz_20260305T194848  5.0    7    5    1    0    0    1    1   -0.40 (4 switches)
+2026-03-05/same_direction_main_rx1/r003_f12.325GHz_20260305T195412  5.0   15    2    1    1    1   10    2   +0.75 (0 switches)
+2026-03-05/same_direction_main_rx2/r001_f11.575GHz_20260305T192710  5.0    2    0    1    0    0    1    1   +0.75 (0 switches)
+2026-03-05/same_direction_main_rx2/r001_f12.325GHz_20260305T193224  5.0    0    0    0    0    0    0    0  
+2026-03-05/same_direction_main_rx2/r002_f11.575GHz_20260305T193737  5.0    6    0    2    0    0    4    0   -5.00 (0 switches)
+2026-03-05/same_direction_main_rx2/r002_f12.325GHz_20260305T194250  5.0   12    6    1    0    1    4    4   -0.50 (0 switches)
+2026-03-05/same_direction_main_rx2/r003_f11.575GHz_20260305T194803  5.0    8    3    1    0    0    4    2   -0.75 (2 switches)
+2026-03-05/same_direction_main_rx2/r003_f12.325GHz_20260305T195317  5.0   14    6    1    0    0    7    5   -0.55 (6 switches)
+2026-03-09/moving_away_moving/r001_f11.575GHz_20260309T214758   5.0    4    0    1    0    0    3    1   +1.00 (0 switches)
+2026-03-09/moving_away_static/r001_f11.575GHz_20260309T214757   5.0    7    3    0    0    0    4    1   -0.30 (5 switches)
+2026-03-09/moving_fast_moving/r001_f11.575GHz_20260309T215542   5.0    7    0    1    0    0    6    2   -0.75 (0 switches)
+2026-03-09/moving_fast_static/r001_f11.575GHz_20260309T215540   5.0   11    4    0    0    0    7    1   -1.00 (6 switches)
+2026-03-09/moving_toward_moving/r001_f11.575GHz_20260309T214128  5.0    5    0    1    0    0    4    0   -1.00 (0 switches)
+2026-03-09/moving_toward_static/r001_f11.575GHz_20260309T214127  5.0   15    6    1    0    0    8    1   -1.50 (0 switches)
+2026-03-09/opposite_sides_static_rx1/r001_f11.575GHz_20260309T211111  5.0   12    5    1    1    1    4    4   -0.30 (5 switches)
+2026-03-09/opposite_sides_static_rx1/r001_f12.325GHz_20260309T211633  5.0   11    5    1    0    0    5    2   -0.40 (7 switches)
+2026-03-09/opposite_sides_static_rx1/r002_f11.575GHz_20260309T212155  5.0    4    0    1    0    0    3    3   -0.75 (0 switches)
+2026-05-04/single/r001_f11.575GHz_20260504T204624              15.0    9    7    1    0    0    1    0   +2.50 (7 switches)
+2026-05-04/single/r001_f11.575GHz_20260504T224056               5.0    5    5    0    0    0    0    0   +2.20 (6 switches)
+2026-05-04/single/r001_f12.325GHz_20260504T213016              15.0   35   21    1    0    1   12   11   +2.10 (16 switches)
+2026-05-04/single/r001_f12.325GHz_20260504T224612               5.0   20   19    0    0    0    1    0   +2.50 (23 switches)
+
+per date:
+2025-12-17   2 files    0 tracks: confirmed    0 (  0%; 0 IDs + 0 not-LEO), look-alike 0, ambiguous 0, unknown 0 (long 0)
+2026-01-20   3 files   20 tracks: confirmed    2 ( 10%; 0 IDs + 2 not-LEO), look-alike 0, ambiguous 0, unknown 18 (long 5)
+2026-02-06  10 files   66 tracks: confirmed   34 ( 52%; 25 IDs + 9 not-LEO), look-alike 0, ambiguous 0, unknown 32 (long 13)
+2026-03-03   4 files   10 tracks: confirmed    0 (  0%; 0 IDs + 0 not-LEO), look-alike 0, ambiguous 0, unknown 10 (long 1)
+2026-03-05  28 files  372 tracks: confirmed  228 ( 61%; 205 IDs + 23 not-LEO), look-alike 4, ambiguous 20, unknown 120 (long 54)
+2026-03-09   9 files   76 tracks: confirmed   30 ( 39%; 23 IDs + 7 not-LEO), look-alike 1, ambiguous 1, unknown 44 (long 15)
+2026-05-04   4 files   69 tracks: confirmed   54 ( 78%; 52 IDs + 2 not-LEO), look-alike 0, ambiguous 1, unknown 14 (long 11)
+all         60 files  613 tracks: confirmed  348 ( 57%; 305 IDs + 43 not-LEO), look-alike 5, ambiguous 22, unknown 238 (long 99)
+
+two receivers, same time (rx1 vs rx2 confirmed satellites):
+same_direction_cross_rx1/r001_f11.575GHz_20260303T190538 both   0  rx1 only   0  rx2 only   0
+same_direction_cross_rx1/r001_f12.325GHz_20260303T190642 both   0  rx1 only   0  rx2 only   0
+diff_directions_rx1/r001_f11.575GHz_20260305T202408     both   0  rx1 only  13  rx2 only   2
+diff_directions_rx1/r001_f12.325GHz_20260305T202931     both   0  rx1 only   9  rx2 only   0
+diff_directions_rx1/r002_f11.575GHz_20260305T203455     both   1  rx1 only  14  rx2 only   2
+diff_directions_rx1/r002_f12.325GHz_20260305T204018     both   0  rx1 only  13  rx2 only   0
+diff_directions_rx1/r003_f11.575GHz_20260305T204542     both   0  rx1 only  19  rx2 only   4
+diff_directions_rx1/r003_f12.325GHz_20260305T205105     both   0  rx1 only  18  rx2 only   0
+same_direction_extra_rx1/r001_f11.575GHz_20260305T200403 both   1  rx1 only   5  rx2 only   0
+same_direction_extra_rx1/r001_f12.325GHz_20260305T200928 both   3  rx1 only   3  rx2 only   1
+same_direction_main_rx1/r001_f11.575GHz_20260305T192710 both   0  rx1 only   7  rx2 only   0
+same_direction_main_rx1/r001_f12.325GHz_20260305T193234 both   0  rx1 only   7  rx2 only   0
+same_direction_main_rx1/r002_f11.575GHz_20260305T193759 both   0  rx1 only  13  rx2 only   0
+same_direction_main_rx1/r002_f12.325GHz_20260305T194323 both   3  rx1 only   5  rx2 only   1
+same_direction_main_rx1/r003_f11.575GHz_20260305T194848 both   2  rx1 only   3  rx2 only   1
+same_direction_main_rx1/r003_f12.325GHz_20260305T195412 both   1  rx1 only   1  rx2 only   4
+
+baseline vs latest, same tracks (per date; baseline determined split: agrees / differs / latest has no ID):
+date        tracks | latest:  det notsat  amb  unk | baseline:  det (agree/differ/noref)   amb  unk | web match (agree)
+2026-01-20      20 | latest:    0      2    0   18 | baseline:    0 (0/0/0)             3   17 | web 0 (0)
+2026-02-06      66 | latest:   25      9    0   32 | baseline:    3 (2/0/1)             8   55 | web 0 (0)
+2026-03-03      10 | latest:    0      0    0   10 | baseline:    0 (0/0/0)             1    9 | web 0 (0)
+2026-03-05     372 | latest:  205     23   25  119 | baseline:   15 (12/3/0)           160  197 | web 27 (0)
+2026-03-09      76 | latest:   23      7    4   42 | baseline:    0 (0/0/0)            16   60 | web 4 (0)
+2026-05-04      69 | latest:   52      2    3   12 | baseline:    3 (2/1/0)            38   28 | web 2 (0)
+all            613 | latest:  305     43   32  233 | baseline:   21 (16/4/1)           226  366 | web 33 (0)

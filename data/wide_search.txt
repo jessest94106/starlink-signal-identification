@@ -1,0 +1,72 @@
+c204624 T4 (24 s):
+c204624    STARLINK-2497           48455 rms     2.4 Hz  shift  +3.38 s  offset  -76.64 kHz  TLE  -24.5 h old  (3 of its TLEs fit)
+c204624    STARLINK-36780          67866 rms     5.0 Hz  shift +58.47 s  offset  -77.48 kHz  TLE  +16.1 h old  (2 of its TLEs fit)
+c204624    STARLINK-34455          65497 rms     5.5 Hz  shift  -1.10 s  offset  -75.39 kHz  TLE  +34.7 h old  (0 of its TLEs fit)
+c204624    STARLINK-2698           48458 rms     6.2 Hz  shift +58.42 s  offset  -75.55 kHz  TLE  +27.1 h old  (1 of its TLEs fit)
+c204624    STARLINK-35566          66061 rms     9.9 Hz  shift  +2.42 s  offset  -76.78 kHz  TLE   -2.8 h old  (6 of its TLEs fit)
+c213016 T1 (37 s):
+   HYPERFIELD-1B           64552 rms    72.3 Hz  shift +60.24 s  offset -111.49 kHz  TLE  +38.4 h old  (15 of its TLEs fit)
+   STARLINK-4165           53286 rms   107.4 Hz  shift  +7.95 s  offset -115.94 kHz  TLE  +10.1 h old  (9 of its TLEs fit)
+   STARLINK-11524          62839 rms   110.2 Hz  shift -50.60 s  offset -124.77 kHz  TLE  +24.8 h old  (7 of its TLEs fit)
+   STARLINK-11122          60040 rms   114.7 Hz  shift -53.17 s  offset -112.98 kHz  TLE   -2.7 h old  (10 of its TLEs fit)
+c213016 T2 (56 s):
+   STARLINK-2334           47792 rms   259.3 Hz  shift +51.61 s  offset -123.95 kHz  TLE  +21.5 h old  (5 of its TLEs fit)
+   STARLINK-32728          62948 rms   326.4 Hz  shift  +7.75 s  offset -121.32 kHz  TLE   +8.2 h old  (9 of its TLEs fit)
+   STARLINK-35846          66367 rms   415.8 Hz  shift +32.49 s  offset -118.02 kHz  TLE   +8.2 h old  (13 of its TLEs fit)
+   STARLINK-31922          59846 rms   436.7 Hz  shift  +1.88 s  offset -117.25 kHz  TLE  -24.7 h old  (6 of its TLEs fit)
+c213016 T5 (55 s):
+   KUIPER-00039            64500 rms     6.1 Hz  shift +59.56 s  offset -112.17 kHz  TLE  +37.6 h old  (2 of its TLEs fit)
+   STARLINK-5113           53988 rms    46.3 Hz  shift  -8.63 s  offset -113.01 kHz  TLE  -15.5 h old  (11 of its TLEs fit)
+   STARLINK-35588          66424 rms    54.4 Hz  shift +39.89 s  offset -108.11 kHz  TLE   +0.4 h old  (7 of its TLEs fit)
+   STARLINK-34238          65415 rms    77.4 Hz  shift +46.97 s  offset -107.04 kHz  TLE  +38.0 h old  (9 of its TLEs fit)
+   STARLINK-35846          66367 rms    79.6 Hz  shift -46.95 s  offset -106.95 kHz  TLE  -26.2 h old  (13 of its TLEs fit)
+c213016 T8 (45 s):
+   STARLINK-32928          63564 rms    11.9 Hz  shift +55.40 s  offset -104.97 kHz  TLE  +16.1 h old  (1 of its TLEs fit)
+   STARLINK-32647          62200 rms   107.5 Hz  shift -53.13 s  offset  -97.06 kHz  TLE  -23.1 h old  (9 of its TLEs fit)
+   STARLINK-5094           53977 rms   147.4 Hz  shift  +4.67 s  offset  -95.09 kHz  TLE  +24.3 h old  (13 of its TLEs fit)
+c213016 T9 (63 s):
+   STARLINK-32367          60919 rms    36.3 Hz  shift -35.04 s  offset -110.40 kHz  TLE  +23.8 h old  (10 of its TLEs fit)
+   STARLINK-30436          57880 rms    86.7 Hz  shift -16.02 s  offset -109.71 kHz  TLE  -16.8 h old  (10 of its TLEs fit)
+   STARLINK-35546          66240 rms   114.9 Hz  shift +53.30 s  offset -107.59 kHz  TLE  +42.6 h old  (11 of its TLEs fit)
+c213016 T10 (15 s):
+   STARLINK-2315           47789 rms     1.4 Hz  shift -28.99 s  offset  -84.30 kHz  TLE  +45.6 h old  (2 of its TLEs fit)
+   STARLINK-3261           50193 rms     1.4 Hz  shift -47.06 s  offset  -86.56 kHz  TLE  -21.9 h old  (8 of its TLEs fit)
+   STARLINK-34882          66227 rms     1.5 Hz  shift -24.47 s  offset  -85.14 kHz  TLE  +22.4 h old  (6 of its TLEs fit)
+   STARLINK-2334           47792 rms     1.9 Hz  shift -38.05 s  offset  -85.62 kHz  TLE  +33.6 h old  (4 of its TLEs fit)
+   STARLINK-34238          65415 rms     3.3 Hz  shift  +2.49 s  offset  -86.60 kHz  TLE   -1.2 h old  (6 of its TLEs fit)
+c213016 T13 (88 s):
+   STARLINK-30467          57895 rms   150.9 Hz  shift +44.92 s  offset -102.79 kHz  TLE  +20.7 h old  (11 of its TLEs fit)
+   OBJECT AT               68457 rms   154.1 Hz  shift +27.93 s  offset  -97.81 kHz  TLE  +11.3 h old  (10 of its TLEs fit)
+   OBJECT M                68427 rms   169.9 Hz  shift +22.86 s  offset  -98.43 kHz  TLE  +11.3 h old  (7 of its TLEs fit)
+   STARLINK-30125          56701 rms   218.3 Hz  shift -26.53 s  offset  -97.04 kHz  TLE  +39.7 h old  (10 of its TLEs fit)
+c213016 T14 (70 s):
+   STARLINK-32716          63031 rms   106.2 Hz  shift +39.89 s  offset  -93.83 kHz  TLE  +36.4 h old  (11 of its TLEs fit)
+   STARLINK-4695           53718 rms   147.2 Hz  shift  +1.76 s  offset  -91.48 kHz  TLE  +22.6 h old  (8 of its TLEs fit)
+   STARLINK-11140          60039 rms   172.6 Hz  shift -31.76 s  offset  -92.58 kHz  TLE  -10.4 h old  (10 of its TLEs fit)
+   STARLINK-11559          62831 rms   208.1 Hz  shift -24.76 s  offset  -93.14 kHz  TLE  +38.5 h old  (9 of its TLEs fit)
+c213016 T17 (78 s):
+   SPOQC                   68423 rms   111.1 Hz  shift  -8.37 s  offset -107.24 kHz  TLE  +11.3 h old  (10 of its TLEs fit)
+   STARLINK-3162           49411 rms   317.4 Hz  shift  -1.41 s  offset -110.22 kHz  TLE  -25.0 h old  (9 of its TLEs fit)
+   STARLINK-4442           53480 rms   646.9 Hz  shift  -8.33 s  offset -100.84 kHz  TLE  +45.6 h old  (15 of its TLEs fit)
+   KUIPER-00062            64522 rms   787.9 Hz  shift -60.60 s  offset -103.66 kHz  TLE   +3.6 h old  (7 of its TLEs fit)
+   STARLINK-35474          66437 rms   891.3 Hz  shift -13.49 s  offset -121.22 kHz  TLE  -23.1 h old  (12 of its TLEs fit)
+c213016 T27 (70 s):
+   STARLINK-32541          61916 rms   106.3 Hz  shift +16.87 s  offset  -98.60 kHz  TLE  +38.1 h old  (11 of its TLEs fit)
+   STARLINK-3889           52331 rms   127.3 Hz  shift  +0.77 s  offset  -94.51 kHz  TLE  +38.6 h old  (12 of its TLEs fit)
+   STARLINK-5653           55345 rms   276.9 Hz  shift -57.71 s  offset  -90.67 kHz  TLE   +6.7 h old  (9 of its TLEs fit)
+c213016 T32 (31 s):
+   STARLINK-36875          68300 rms   109.9 Hz  shift  -1.90 s  offset -105.66 kHz  TLE  +41.7 h old  (9 of its TLEs fit)
+   STARLINK-4795           53856 rms   145.2 Hz  shift +57.66 s  offset  -92.48 kHz  TLE  +33.7 h old  (4 of its TLEs fit)
+   STARLINK-3140           49460 rms   160.4 Hz  shift  -8.81 s  offset -110.98 kHz  TLE  +22.7 h old  (12 of its TLEs fit)
+   STARLINK-3314           50851 rms   162.4 Hz  shift +60.60 s  offset -113.20 kHz  TLE  +18.0 h old  (10 of its TLEs fit)
+   STARLINK-35617          66422 rms   165.1 Hz  shift  +1.15 s  offset  -92.50 kHz  TLE  +39.7 h old  (14 of its TLEs fit)
+c213016 T33 (10 s):
+   STARLINK-37071          68190 rms     3.3 Hz  shift -27.89 s  offset  -62.40 kHz  TLE  +36.1 h old  (0 of its TLEs fit)
+   STARLINK-35212          65496 rms     3.4 Hz  shift +26.55 s  offset  -63.17 kHz  TLE  -18.5 h old  (6 of its TLEs fit)
+   STARLINK-36843          67856 rms     3.6 Hz  shift -42.53 s  offset  -62.94 kHz  TLE  -23.0 h old  (4 of its TLEs fit)
+   STARLINK-37032          68181 rms     4.1 Hz  shift  -1.11 s  offset  -62.00 kHz  TLE  +22.1 h old  (3 of its TLEs fit)
+   STARLINK-36668          68177 rms     8.9 Hz  shift +55.04 s  offset  -59.31 kHz  TLE  +23.6 h old  (3 of its TLEs fit)
+c224056-12 T0 (15 s):
+   STARLINK-31972          59923 rms    52.0 Hz  shift +23.81 s  offset  -84.99 kHz  TLE  +12.9 h old  (11 of its TLEs fit)
+   ORBCOMM FM 31           25981 rms    52.2 Hz  shift -14.31 s  offset  -90.03 kHz  TLE   +7.1 h old  (10 of its TLEs fit)
+   RASSVET-3 10            68369 rms    52.7 Hz  shift -38.41 s  offset  -73.07 kHz  TLE   -7.3 h old  (11 of its TLEs fit)

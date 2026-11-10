@@ -1,0 +1,18 @@
+new 0 <- old 0+2, 3 1-s points added
+new 1 <- old 1, 1 1-s points added
+new 2 <- old 3+4+6+8, 937 1-s points added
+new 3 <- old 5, 20 1-s points added
+new 4 <- old 7, 11 1-s points added
+new 5 <- old 9, 1 1-s points added
+new 6 <- old 10, 9 1-s points added
+new 7 <- old 11, 16 1-s points added
+new 8 <- old 12, 2 1-s points added
+track 0:    0.6-  35.3 s,  -191.84 ->  -249.62 kHz, 115 pts, median SNR 18.1 dB
+track 1:    5.6-  20.3 s,  -190.53 ->  -217.89 kHz, 27 pts, median SNR 17.1 dB
+track 2:    0.5- 899.5 s,    14.24 ->    10.69 kHz, 1020 pts, median SNR 19.7 dB
+track 3:  331.6- 364.6 s,  -115.68 ->  -197.61 kHz, 47 pts, median SNR 19.9 dB
+track 4:  383.0- 407.2 s,  -209.49 ->  -249.81 kHz, 47 pts, median SNR 17.1 dB
+track 5:  456.0- 470.4 s,  -126.22 ->  -155.84 kHz, 36 pts, median SNR 20.3 dB
+track 6:  500.6- 523.5 s,  -209.01 ->  -239.93 kHz, 63 pts, median SNR 24.2 dB
+track 7:  635.5- 664.9 s,  -163.68 ->  -228.03 kHz, 63 pts, median SNR 20.5 dB
+track 8:  740.2- 760.8 s,  -206.49 ->  -237.62 kHz, 59 pts, median SNR 20.6 dB

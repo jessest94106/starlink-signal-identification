@@ -1,0 +1,12 @@
+{
+ "file": "same_direction_extra_rx1__r001_f12.325GHz_20260305T200928.sigmf-data",
+ "fc": 12325000000.0,
+ "duration_s": 300.0,
+ "tracks": 15,
+ "start_file": "2026-03-05T20:09:28.000",
+ "start_fingerprint": "2026-03-05T20:09:28.500",
+ "start_switches": "2026-03-05T20:09:28.200",
+ "switches": 3,
+ "switch_phase_spread_s": 0.9201448850296415,
+ "result": "confirmed: 7 IDs + 0 not-LEO = 7 of 15 (47%); IDs 7 of 15 satellite-like (47%)"
+}

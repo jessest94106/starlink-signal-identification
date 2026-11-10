@@ -1,0 +1,21 @@
+start 2026-05-04T20:46:22.84Z + tau -0.00 s; receiver offset per 120 s window (kHz): -90.49 -90.13 -89.76 -89.77 -89.83 -89.89 -89.94; 2 iterations
+track 0: accepted  SAT-49434  rms    7.1 Hz  margin    215.9  sat offset   -6.94 kHz  dt -0.80 s  alt None
+track 1: accepted  SAT-52345  rms    1.6 Hz  margin    359.4  sat offset   -7.99 kHz  dt +0.52 s  alt None
+track 2: unknown   None       rms    0.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 3: unknown   None       rms    2.8 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 4: unknown   None       rms    2.2 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 5: accepted  SAT-57680  rms    2.3 Hz  margin    370.4  sat offset   -0.23 kHz  dt -0.00 s  alt None
+track 6: unknown   None       rms    7.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 7: ambiguous SAT-65497  rms    2.5 Hz  margin     14.1  sat offset  +13.19 kHz  dt +0.49 s  alt SAT-66061
+track 8: unknown   None       rms    7.1 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 9: accepted  SAT-49444  rms    4.9 Hz  margin    438.9  sat offset   +6.36 kHz  dt +0.40 s  alt None
+track 10: accepted  SAT-49444  rms    1.3 Hz  margin    752.3  sat offset   +5.65 kHz  dt +0.00 s  alt None
+track 11: accepted  SAT-57663  rms    1.7 Hz  margin    649.6  sat offset   -1.21 kHz  dt -0.88 s  alt None
+track 12: accepted  SAT-49442  rms   11.0 Hz  margin    310.2  sat offset   -3.22 kHz  dt -0.65 s  alt None
+SAT-49434: offset   -6.13 kHz from receiver, orbit shift -0.89 s (allowance 0.50 s)
+SAT-49442: offset   -2.03 kHz from receiver, orbit shift -0.50 s (allowance 0.50 s)
+SAT-49444: offset   +0.00 kHz from receiver, orbit shift +0.00 s (allowance 0.50 s)
+SAT-52345: offset   -7.01 kHz from receiver, orbit shift +0.52 s (allowance 0.50 s)
+SAT-57663: offset   -0.23 kHz from receiver, orbit shift -0.88 s (allowance 0.50 s)
+SAT-57680: offset   +0.87 kHz from receiver, orbit shift -0.00 s (allowance 0.50 s)
+SAT-65497: offset  +14.29 kHz from receiver, orbit shift +0.49 s (allowance 0.50 s)

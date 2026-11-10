@@ -1,0 +1,18 @@
+{
+  "global": {
+    "core:datatype": "cf32_le",
+    "core:sample_rate": 500000.0,
+    "core:version": "1.0.0",
+    "core:description": "Starlink Ku-band capture",
+    "core:author": "demo.py",
+    "core:recorder": "USRP + LNB"
+  },
+  "captures": [
+    {
+      "core:sample_start": 0,
+      "core:frequency": 11575000000.0,
+      "core:datetime": "2026-05-04T22:46:12.167477Z"
+    }
+  ],
+  "annotations": []
+}

@@ -1,0 +1,5 @@
+track 0: LS ambiguous  SAT-52633  rmse     4.6 2nd SAT-52352      4.8 | web none  SAT-66475     7154 Hz
+track 1: LS ambiguous  SAT-55334  rmse     6.7 2nd SAT-67517      7.6 | web none  SAT-52352     8825 Hz
+track 2: LS ambiguous  SAT-63048  rmse     5.3 2nd SAT-57932      5.4 | web none  SAT-58711     3632 Hz
+track 3: LS determined SAT-53606  rmse     7.2 2nd SAT-53610     43.3 | web none  SAT-63882     9775 Hz
+track 4: LS unknown    SAT-53610  rmse    52.1 2nd SAT-53258     75.1 | web none  SAT-62428     3632 Hz

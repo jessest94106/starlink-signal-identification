@@ -1,0 +1,70 @@
+new 0 <- old 0, 0 1-s points added
+new 1 <- old 1, 29 1-s points added
+new 2 <- old 2, 8 1-s points added
+new 3 <- old 3+39, 77 1-s points added
+new 4 <- old 4, 0 1-s points added
+new 5 <- old 5, 38 1-s points added
+new 6 <- old 6, 1 1-s points added
+new 7 <- old 7, 2 1-s points added
+new 8 <- old 8, 13 1-s points added
+new 9 <- old 9, 29 1-s points added
+new 10 <- old 10, 0 1-s points added
+new 11 <- old 11, 34 1-s points added
+new 12 <- old 12, 1 1-s points added
+new 13 <- old 13+14, 36 1-s points added
+new 14 <- old 15, 44 1-s points added
+new 15 <- old 16, 4 1-s points added
+new 16 <- old 17, 11 1-s points added
+new 17 <- old 18, 65 1-s points added
+new 18 <- old 19, 28 1-s points added
+new 19 <- old 20, 30 1-s points added
+new 20 <- old 21+22, 23 1-s points added
+new 21 <- old 23, 0 1-s points added
+new 22 <- old 24, 0 1-s points added
+new 23 <- old 25, 0 1-s points added
+new 24 <- old 26, 52 1-s points added
+new 25 <- old 27, 18 1-s points added
+new 26 <- old 28+29, 10 1-s points added
+new 27 <- old 30, 13 1-s points added
+new 28 <- old 31, 0 1-s points added
+new 29 <- old 32+34, 18 1-s points added
+new 30 <- old 33, 3 1-s points added
+new 31 <- old 35, 0 1-s points added
+new 32 <- old 36, 13 1-s points added
+new 33 <- old 37, 3 1-s points added
+new 34 <- old 38, 1 1-s points added
+track 0:    0.1-  26.3 s,  -183.54 ->  -244.65 kHz, 101 pts, median SNR 27.4 dB
+track 1:    9.0-  46.1 s,  -125.62 ->  -238.45 kHz, 52 pts, median SNR 20.8 dB
+track 2:    1.3-  57.5 s,   -12.97 ->  -145.67 kHz, 165 pts, median SNR 27.2 dB
+track 3:    1.0- 899.3 s,    23.21 ->    15.20 kHz, 2816 pts, median SNR 20.2 dB
+track 4:   73.0- 101.8 s,  -184.29 ->  -246.20 kHz, 107 pts, median SNR 28.9 dB
+track 5:  117.0- 172.4 s,   -86.16 ->  -215.93 kHz, 87 pts, median SNR 24.0 dB
+track 6:  179.7- 192.8 s,  -140.14 ->  -183.64 kHz, 20 pts, median SNR 13.1 dB
+track 7:  178.5- 193.1 s,  -135.87 ->  -184.86 kHz, 23 pts, median SNR 19.6 dB
+track 8:  178.1- 223.0 s,   -84.09 ->  -185.13 kHz, 127 pts, median SNR 26.2 dB
+track 9:  164.1- 227.4 s,   -91.84 ->  -248.66 kHz, 157 pts, median SNR 21.2 dB
+track 10:  238.2- 252.8 s,  -226.38 ->  -248.93 kHz, 54 pts, median SNR 18.8 dB
+track 11:  282.0- 326.5 s,  -139.45 ->  -244.85 kHz, 63 pts, median SNR 19.1 dB
+track 12:  343.1- 372.6 s,  -159.83 ->  -239.67 kHz, 37 pts, median SNR 21.7 dB
+track 13:  359.6- 447.9 s,   -29.99 ->  -219.53 kHz, 217 pts, median SNR 27.6 dB
+track 14:  412.8- 483.3 s,   -48.89 ->  -249.86 kHz, 145 pts, median SNR 25.3 dB
+track 15:  483.5- 497.5 s,   249.64 ->   225.79 kHz, 28 pts, median SNR 18.8 dB
+track 16:  478.7- 503.3 s,  -193.34 ->  -238.58 kHz, 30 pts, median SNR 17.2 dB
+track 17:  474.5- 552.3 s,    -3.25 ->  -178.15 kHz, 114 pts, median SNR 24.1 dB
+track 18:  499.0- 537.0 s,  -132.57 ->  -245.85 kHz, 64 pts, median SNR 20.2 dB
+track 19:  546.6- 582.4 s,  -135.17 ->  -216.20 kHz, 53 pts, median SNR 22.9 dB
+track 20:  579.0- 628.0 s,   -71.54 ->  -180.24 kHz, 106 pts, median SNR 23.6 dB
+track 21:  613.3- 628.0 s,  -216.83 ->  -241.23 kHz, 49 pts, median SNR 18.9 dB
+track 22:  613.5- 642.4 s,  -171.78 ->  -249.61 kHz, 99 pts, median SNR 27.4 dB
+track 23:  633.5- 686.4 s,   -57.86 ->  -207.87 kHz, 117 pts, median SNR 28.1 dB
+track 24:  642.9- 702.4 s,   -80.77 ->  -235.97 kHz, 73 pts, median SNR 19.4 dB
+track 25:  688.9- 717.4 s,  -142.08 ->  -237.91 kHz, 39 pts, median SNR 20.6 dB
+track 26:  703.0- 747.9 s,  -102.01 ->  -225.99 kHz, 138 pts, median SNR 22.9 dB
+track 27:  703.2- 773.6 s,   -66.85 ->  -239.96 kHz, 182 pts, median SNR 26.9 dB
+track 28:  763.5- 777.4 s,   101.29 ->    90.96 kHz, 54 pts, median SNR 21.9 dB
+track 29:  756.1- 803.6 s,  -166.16 ->  -249.97 kHz, 109 pts, median SNR 25.8 dB
+track 30:  775.2- 792.6 s,  -134.99 ->  -174.99 kHz, 58 pts, median SNR 23.5 dB
+track 31:  808.6- 823.0 s,  -206.94 ->  -231.46 kHz, 46 pts, median SNR 17.5 dB
+track 32:  839.3- 869.9 s,   -56.90 ->  -129.84 kHz, 40 pts, median SNR 22.8 dB
+track 33:  872.7- 882.2 s,  -194.20 ->  -220.59 kHz, 21 pts, median SNR 19.9 dB
+track 34:  872.1- 882.5 s,  -156.77 ->  -179.81 kHz, 35 pts, median SNR 21.7 dB

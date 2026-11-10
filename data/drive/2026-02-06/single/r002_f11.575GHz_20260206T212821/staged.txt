@@ -1,0 +1,12 @@
+6 tracks: 1 constant lines (not-LEO), 5 satellite-like
+stage limit 15 Hz, orbit allowance 0.5 s (clip 1.5 s): 2 candidates, 2 confirmed (total 2)
+stage limit 20 Hz, orbit allowance 0.5 s (clip 1.5 s): 0 candidates, 0 confirmed (total 2)
+stage limit 30 Hz, orbit allowance 1.0 s (clip 3.0 s): 0 candidates, 0 confirmed (total 2)
+stage limit 50 Hz, orbit allowance 2.0 s (clip 6.0 s): 0 candidates, 0 confirmed (total 2)
+track 0: not-LEO   constant line, rate +2.4 Hz/s
+track 1: unknown   None / None  rms inf Hz
+track 2: confirmed SAT-52684  at stage 15 Hz / 0.5 s  rms  11.8 Hz  dt -0.62 s  sat offset +4.08 kHz
+track 3: confirmed SAT-52700  at stage 15 Hz / 0.5 s  rms   6.6 Hz  dt -1.17 s  sat offset -3.64 kHz
+track 4: unknown   None / None  rms inf Hz
+track 5: unknown   None / None  rms inf Hz
+confirmed: 2 IDs + 1 not-LEO = 3 of 6 (50%); IDs 2 of 5 satellite-like (40%)

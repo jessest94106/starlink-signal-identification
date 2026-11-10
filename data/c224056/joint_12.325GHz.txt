@@ -1,0 +1,33 @@
+start 2026-05-04T22:46:09.50Z + tau -0.00 s; receiver offset per 120 s window (kHz): -86.70 -86.66 -86.48; 2 iterations
+track 0: unknown   None       rms    0.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 1: unknown   None       rms    0.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 2: unknown   None       rms    0.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 3: accepted  SAT-53592  rms    8.2 Hz  margin    429.1  sat offset   -4.09 kHz  dt -1.50 s  alt None
+track 4: ambiguous SAT-66204  rms    1.8 Hz  margin     12.5  sat offset   -0.17 kHz  dt +0.27 s  alt SAT-63571
+track 5: unknown   None       rms    0.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 6: accepted  SAT-59380  rms    1.6 Hz  margin    792.0  sat offset   -2.68 kHz  dt +0.14 s  alt None
+track 7: accepted  SAT-53797  rms    1.9 Hz  margin    756.5  sat offset   +3.04 kHz  dt -0.74 s  alt None
+track 8: accepted  SAT-64427  rms    1.1 Hz  margin    713.1  sat offset   -3.13 kHz  dt +0.09 s  alt None
+track 9: unknown   None       rms    0.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 10: accepted  SAT-66188  rms    2.8 Hz  margin    572.1  sat offset   +7.86 kHz  dt -0.21 s  alt None
+track 11: accepted  SAT-53613  rms    1.9 Hz  margin    576.8  sat offset   -3.18 kHz  dt +0.49 s  alt None
+track 12: accepted  SAT-49419  rms    1.8 Hz  margin    803.4  sat offset   -0.93 kHz  dt -0.39 s  alt None
+track 13: unknown   None       rms    0.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 14: accepted  SAT-53613  rms    6.9 Hz  margin    424.2  sat offset   -5.22 kHz  dt -0.35 s  alt None
+track 15: accepted  SAT-53823  rms    2.6 Hz  margin   1076.0  sat offset   +4.57 kHz  dt -0.59 s  alt None
+track 16: accepted  SAT-59394  rms    1.3 Hz  margin    306.1  sat offset   -8.68 kHz  dt +0.06 s  alt None
+track 17: accepted  SAT-53823  rms    2.2 Hz  margin    908.0  sat offset   +4.31 kHz  dt -0.58 s  alt None
+track 18: accepted  SAT-53823  rms    1.9 Hz  margin    538.2  sat offset   +4.04 kHz  dt -0.78 s  alt None
+track 19: unknown   None       rms    0.0 Hz  margin      nan  sat offset    +nan kHz  dt +nan s  alt None
+track 20: accepted  SAT-51462  rms    1.2 Hz  margin    279.0  sat offset   +6.03 kHz  dt -0.89 s  alt None
+SAT-49419: offset   -0.46 kHz from receiver, orbit shift -0.38 s (allowance 0.50 s)
+SAT-51462: offset   +6.60 kHz from receiver, orbit shift -0.88 s (allowance 0.50 s)
+SAT-53592: offset   +0.00 kHz from receiver, orbit shift +0.00 s (allowance 0.50 s)
+SAT-53613: offset   -4.85 kHz from receiver, orbit shift -0.39 s (allowance 0.50 s)
+SAT-53797: offset   +3.46 kHz from receiver, orbit shift -0.74 s (allowance 0.50 s)
+SAT-53823: offset   +0.00 kHz from receiver, orbit shift +0.00 s (allowance 0.50 s)
+SAT-59380: offset   -2.25 kHz from receiver, orbit shift +0.14 s (allowance 0.50 s)
+SAT-59394: offset   -8.21 kHz from receiver, orbit shift +0.06 s (allowance 0.50 s)
+SAT-64427: offset   -2.71 kHz from receiver, orbit shift +0.09 s (allowance 0.50 s)
+SAT-66188: offset   +8.33 kHz from receiver, orbit shift -0.21 s (allowance 0.50 s)
+SAT-66204: offset   +0.24 kHz from receiver, orbit shift +0.26 s (allowance 0.50 s)

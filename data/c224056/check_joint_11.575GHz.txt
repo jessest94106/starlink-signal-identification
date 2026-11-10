@@ -1,0 +1,6 @@
+T1 SAT-53973 removed -> unknown None
+T2 SAT-66177 removed -> unknown None
+T3 SAT-53606 removed -> unknown None
+T4 SAT-53606 removed -> unknown None
+T5 SAT-53610 removed -> unknown None
+0 of 5 accepted tracks confidently re-labelled when their satellite was removed

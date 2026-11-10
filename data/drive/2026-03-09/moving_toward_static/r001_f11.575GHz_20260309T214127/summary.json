@@ -1,0 +1,12 @@
+{
+ "file": "moving_toward_static__r001_f11.575GHz_20260309T214127.sigmf-data",
+ "fc": 11575000000.0,
+ "duration_s": 300.0,
+ "tracks": 15,
+ "start_file": "2026-03-09T21:41:27.000",
+ "start_fingerprint": "2026-03-09T21:41:28.500",
+ "start_switches": "2026-03-09T21:41:28.500",
+ "switches": 0,
+ "switch_phase_spread_s": null,
+ "result": "confirmed: 6 IDs + 1 not-LEO = 7 of 15 (47%); IDs 6 of 14 satellite-like (43%)"
+}

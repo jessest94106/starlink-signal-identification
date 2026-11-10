@@ -1,0 +1,12 @@
+{
+ "file": "single__r002_f12.325GHz_20260206T213335.sigmf-data",
+ "fc": 12325000000.0,
+ "duration_s": 300.0,
+ "tracks": 14,
+ "start_file": "2026-02-06T21:33:35.000",
+ "start_fingerprint": "2026-02-06T21:33:36.250",
+ "start_switches": "2026-02-06T21:33:36.250",
+ "switches": 1,
+ "switch_phase_spread_s": 0.0,
+ "result": "confirmed: 5 IDs + 1 not-LEO = 6 of 14 (43%); IDs 5 of 13 satellite-like (38%)"
+}

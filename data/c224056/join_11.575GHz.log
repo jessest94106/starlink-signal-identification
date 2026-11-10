@@ -1,0 +1,10 @@
+new 0 <- old 0, 7 1-s points added
+new 1 <- old 1, 11 1-s points added
+new 2 <- old 2, 0 1-s points added
+new 3 <- old 3+4, 20 1-s points added
+new 4 <- old 5, 46 1-s points added
+track 0:    1.0-  18.2 s,  -209.05 ->  -239.36 kHz, 34 pts, median SNR 18.1 dB
+track 1:   14.1-  48.1 s,   -94.65 ->  -177.35 kHz, 67 pts, median SNR 22.1 dB
+track 2:   78.5-  93.2 s,  -168.86 ->  -196.15 kHz, 38 pts, median SNR 19.2 dB
+track 3:  138.2- 182.6 s,   -53.50 ->  -151.94 kHz, 100 pts, median SNR 24.6 dB
+track 4:  207.2- 269.8 s,   -10.02 ->  -148.33 kHz, 86 pts, median SNR 21.1 dB

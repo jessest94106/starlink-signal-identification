@@ -1,0 +1,11 @@
+5 tracks: 1 constant lines (not-LEO), 4 satellite-like
+stage limit 15 Hz, orbit allowance 0.5 s (clip 1.5 s): 0 candidates, 0 confirmed (total 0)
+stage limit 20 Hz, orbit allowance 0.5 s (clip 1.5 s): 0 candidates, 0 confirmed (total 0)
+stage limit 30 Hz, orbit allowance 1.0 s (clip 3.0 s): 0 candidates, 0 confirmed (total 0)
+stage limit 50 Hz, orbit allowance 2.0 s (clip 6.0 s): 0 candidates, 0 confirmed (total 0)
+track 0: unknown   None / None  rms inf Hz
+track 1: unknown   None / None  rms inf Hz
+track 2: unknown   None / None  rms inf Hz
+track 3: unknown   None / None  rms inf Hz
+track 4: not-LEO   constant line, rate -2.2 Hz/s
+confirmed: 0 IDs + 1 not-LEO = 1 of 5 (20%); IDs 0 of 4 satellite-like (0%)

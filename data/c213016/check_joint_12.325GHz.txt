@@ -1,0 +1,19 @@
+T6 SAT-52643 removed -> unknown None
+T11 SAT-63700 removed -> unknown None
+T15 SAT-53718 removed -> unknown None
+T16 SAT-53718 removed -> unknown None
+T19 SAT-53866 removed -> unknown None
+T20 SAT-53701 removed -> accepted SAT-62956   <-- FAIL
+T21 SAT-53964 removed -> unknown None
+T22 SAT-53964 removed -> unknown None
+T23 SAT-66352 removed -> unknown None
+T24 SAT-55647 removed -> unknown None
+T26 SAT-63703 removed -> unknown None
+T27 SAT-68170 removed -> unknown None
+T28 SAT-66396 removed -> unknown None
+T31 SAT-67849 removed -> unknown None
+T33 SAT-66192 removed -> unknown None
+T35 SAT-66192 removed -> unknown None
+T37 SAT-68181 removed -> unknown None
+T38 SAT-62967 removed -> unknown None
+1 of 18 accepted tracks confidently re-labelled when their satellite was removed

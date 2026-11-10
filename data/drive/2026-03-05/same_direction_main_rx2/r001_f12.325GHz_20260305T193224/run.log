@@ -1,0 +1,3 @@
+{"file": "same_direction_main_rx2__r001_f12.325GHz_20260305T193224.sigmf-data", "fc": 12325000000.0, "duration_s": 300.0, "tracks": 0}
+/home/jesse/starlink/run_capture.py:90: UserWarning: loadtxt: input contained no data: "/home/jesse/starlink/data/drive/2026-03-05/same_direction_main_rx2/r001_f12.325GHz_20260305T193224/tracks.csv"
+  d = np.loadtxt(csv, delimiter=',', skiprows=1, ndmin=2)

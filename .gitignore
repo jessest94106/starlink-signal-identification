@@ -1,0 +1,20 @@
+# Raw I/Q recordings (1-4 GB each; originals on the team Drive)
+*.sigmf-data
+data/drive/raw/
+
+# Google Drive file IDs of the raw recordings (kept local, not public)
+drive_lists/
+data/drive/manifest.tsv
+
+# Internal notes (repo is for external use); archive/sims code stays
+note.md
+archive/*
+!archive/sims/
+
+# Local environments and caches
+.venv-dl/
+__pycache__/
+.ipynb_checkpoints/
+
+# Report (not part of the external repo)
+report/

@@ -1,0 +1,8 @@
+start offset scan (s: median RMS Hz): 0.00:56 4.00:29 7.25:11 8.25:7 10.00:15 14.00:24 18.00:38 22.00:95 26.00:64
+best start = 2026-05-04T22:40:46.37Z + 8.00 s
+track 0: unknown   SAT-55633  rms    38.9 Hz  ratio     2.0  offset   -83.47 kHz  dt +1.20 s  next: ('SAT-59928', 78.62105222174362)
+track 1: accepted  SAT-53973  rms     6.7 Hz  ratio    25.6  offset   -81.58 kHz  dt +0.65 s  next: ('SAT-53494', 170.6196835424152)
+track 2: accepted  SAT-66177  rms     4.4 Hz  ratio    16.6  offset   -75.41 kHz  dt -0.37 s  next: ('SAT-65422', 73.94363654316642)
+track 3: accepted  SAT-53606  rms     5.9 Hz  ratio    26.7  offset   -81.54 kHz  dt -0.26 s  next: ('SAT-52628', 156.8589733217894)
+track 4: unknown   SAT-53606  rms    17.0 Hz  ratio     4.8  offset   -82.03 kHz  dt -0.47 s  next: ('SAT-57900', 80.93127453976886)
+track 5: accepted  SAT-53610  rms     5.5 Hz  ratio     6.3  offset   -78.17 kHz  dt -0.65 s  next: ('SAT-55468', 34.37167054687867)

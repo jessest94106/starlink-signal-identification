@@ -1,0 +1,12 @@
+{
+ "file": "same_direction_cross_rx1__r001_f12.325GHz_20260303T190642.sigmf-data",
+ "fc": 12325000000.0,
+ "duration_s": 50.0,
+ "tracks": 1,
+ "start_file": "2026-03-03T19:06:42.000",
+ "start_fingerprint": "2026-03-03T19:06:48.750",
+ "start_switches": "2026-03-03T19:06:48.750",
+ "switches": 0,
+ "switch_phase_spread_s": null,
+ "result": "confirmed: 0 IDs + 0 not-LEO = 0 of 1 (0%); IDs 0 of 1 satellite-like (0%)"
+}

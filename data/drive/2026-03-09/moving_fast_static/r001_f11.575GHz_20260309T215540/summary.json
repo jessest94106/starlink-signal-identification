@@ -1,0 +1,12 @@
+{
+ "file": "moving_fast_static__r001_f11.575GHz_20260309T215540.sigmf-data",
+ "fc": 11575000000.0,
+ "duration_s": 300.0,
+ "tracks": 11,
+ "start_file": "2026-03-09T21:55:40.000",
+ "start_fingerprint": "2026-03-09T21:55:40.000",
+ "start_switches": "2026-03-09T21:55:41.000",
+ "switches": 6,
+ "switch_phase_spread_s": 0.03726776408365316,
+ "result": "confirmed: 4 IDs + 0 not-LEO = 4 of 11 (36%); IDs 4 of 11 satellite-like (36%)"
+}

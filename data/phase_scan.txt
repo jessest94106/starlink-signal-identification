@@ -1,0 +1,84 @@
+c204624 T4 (24 s):
+    58841 rms     4.1 Hz  slide +422.05 s  offset  -78.44 kHz
+    65506 rms     6.5 Hz  slide -322.20 s  offset  -77.47 kHz
+    65519 rms     7.6 Hz  slide +497.85 s  offset  -77.76 kHz
+    55112 rms     8.4 Hz  slide  +25.95 s  offset  -66.36 kHz
+    52641 rms     8.8 Hz  slide -488.20 s  offset  -77.65 kHz
+c213016 T1 (37 s):
+    64534 rms    37.8 Hz  slide -196.10 s  offset -114.49 kHz
+    55643 rms    44.4 Hz  slide -511.45 s  offset -121.98 kHz
+    55647 rms    60.2 Hz  slide +572.65 s  offset -117.07 kHz
+    64529 rms    61.9 Hz  slide -246.60 s  offset -112.32 kHz
+    63126 rms    62.4 Hz  slide -558.25 s  offset -112.17 kHz
+c213016 T2 (56 s):
+    50190 rms   206.6 Hz  slide -560.75 s  offset -124.96 kHz
+    50195 rms   206.8 Hz  slide -242.95 s  offset -124.97 kHz
+    50193 rms   211.8 Hz  slide  +73.90 s  offset -124.89 kHz
+    55380 rms   229.8 Hz  slide  -96.65 s  offset -124.10 kHz
+    47792 rms   264.0 Hz  slide  +56.10 s  offset -123.81 kHz
+c213016 T5 (55 s):
+    59846 rms    16.7 Hz  slide  -75.00 s  offset -110.28 kHz
+    59843 rms    17.2 Hz  slide -408.05 s  offset -110.16 kHz
+    59838 rms    17.3 Hz  slide +146.90 s  offset -110.13 kHz
+    59835 rms    25.2 Hz  slide +479.80 s  offset -109.55 kHz
+    67775 rms    26.8 Hz  slide -530.70 s  offset -111.25 kHz
+c213016 T8 (45 s):
+    63566 rms    12.0 Hz  slide -389.45 s  offset -105.01 kHz
+    63564 rms    12.3 Hz  slide  +54.85 s  offset -103.84 kHz
+    62506 rms    15.5 Hz  slide -498.80 s  offset -103.54 kHz
+    49431 rms    20.7 Hz  slide +130.05 s  offset -106.39 kHz
+    82524 rms    21.4 Hz  slide +504.20 s  offset -107.43 kHz
+c213016 T9 (63 s):
+    66243 rms    36.3 Hz  slide -580.35 s  offset -110.25 kHz
+    66252 rms    36.9 Hz  slide -398.15 s  offset -110.28 kHz
+    66258 rms    37.1 Hz  slide -216.00 s  offset -110.53 kHz
+    66235 rms    45.2 Hz  slide +150.05 s  offset -111.03 kHz
+    66251 rms    47.4 Hz  slide +468.40 s  offset -109.43 kHz
+c213016 T10 (15 s):
+    50193 rms     1.8 Hz  slide  -45.85 s  offset  -86.90 kHz
+    53609 rms     1.8 Hz  slide +591.85 s  offset  -87.47 kHz
+    64510 rms     1.8 Hz  slide -563.95 s  offset  -89.40 kHz
+    66229 rms     2.2 Hz  slide -477.90 s  offset  -85.08 kHz
+    62955 rms     2.4 Hz  slide +284.15 s  offset  -85.71 kHz
+c213016 T13 (88 s):
+    62193 rms    68.5 Hz  slide -472.35 s  offset -100.22 kHz
+    62200 rms    69.4 Hz  slide -249.35 s  offset -100.17 kHz
+    49428 rms    83.2 Hz  slide +572.60 s  offset -100.19 kHz
+    62215 rms    83.8 Hz  slide +415.50 s  offset  -99.73 kHz
+    49414 rms    89.5 Hz  slide +254.70 s  offset -100.04 kHz
+c213016 T14 (70 s):
+    63031 rms    53.5 Hz  slide  +42.55 s  offset  -92.50 kHz
+    45064 rms    54.8 Hz  slide -344.00 s  offset  -92.41 kHz
+    63042 rms    56.6 Hz  slide -142.60 s  offset  -92.76 kHz
+    47861 rms    56.9 Hz  slide +407.70 s  offset  -92.13 kHz
+    65464 rms    63.4 Hz  slide  -70.85 s  offset  -91.85 kHz
+c213016 T17 (78 s):
+    64518 rms    93.1 Hz  slide +462.00 s  offset -104.58 kHz
+    68457 rms    94.7 Hz  slide -105.60 s  offset -107.97 kHz
+    68427 rms    94.7 Hz  slide -110.50 s  offset -107.93 kHz
+    68418 rms    94.8 Hz  slide -475.25 s  offset -108.02 kHz
+    68426 rms    94.8 Hz  slide -299.95 s  offset -108.08 kHz
+c213016 T27 (70 s):
+    45048 rms    37.9 Hz  slide -333.30 s  offset  -95.19 kHz
+    55278 rms    57.2 Hz  slide -443.95 s  offset  -94.14 kHz
+    59522 rms    57.3 Hz  slide +598.20 s  offset  -95.40 kHz
+    55283 rms    68.6 Hz  slide  -83.35 s  offset  -93.83 kHz
+    55281 rms    83.1 Hz  slide +277.60 s  offset  -93.39 kHz
+c213016 T32 (31 s):
+    68317 rms    51.6 Hz  slide -436.95 s  offset  -88.59 kHz
+    68300 rms    53.1 Hz  slide  +53.70 s  offset  -88.39 kHz
+    68311 rms    53.9 Hz  slide -159.55 s  offset  -88.25 kHz
+    68301 rms    57.4 Hz  slide +236.35 s  offset  -87.66 kHz
+    68298 rms    64.4 Hz  slide +573.00 s  offset  -86.45 kHz
+c213016 T33 (10 s):
+    45747 rms     3.9 Hz  slide -152.15 s  offset  -63.65 kHz
+    67875 rms     4.4 Hz  slide -404.35 s  offset  -62.51 kHz
+    67856 rms     4.6 Hz  slide  -39.60 s  offset  -62.59 kHz
+    68170 rms     4.9 Hz  slide -156.40 s  offset  -62.00 kHz
+    58945 rms     5.0 Hz  slide +574.25 s  offset  -62.86 kHz
+c224056-12 T0 (15 s):
+    68365 rms    51.7 Hz  slide +209.95 s  offset  -80.23 kHz
+    59125 rms    51.8 Hz  slide +373.90 s  offset  -77.49 kHz
+    59944 rms    51.9 Hz  slide +355.80 s  offset  -85.63 kHz
+    59932 rms    51.9 Hz  slide +133.60 s  offset  -85.60 kHz
+    68369 rms    51.9 Hz  slide  -39.65 s  offset  -76.84 kHz

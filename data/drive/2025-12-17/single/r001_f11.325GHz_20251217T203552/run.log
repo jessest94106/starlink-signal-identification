@@ -1,0 +1,3 @@
+{"file": "single__r001_f11.325GHz_20251217T203552.sigmf-data", "fc": 11325000000.0, "duration_s": 120.0, "tracks": 0}
+/home/jesse/starlink/run_capture.py:88: UserWarning: loadtxt: input contained no data: "/home/jesse/starlink/data/drive/2025-12-17/single/r001_f11.325GHz_20251217T203552/tracks.csv"
+  d = np.loadtxt(csv, delimiter=',', skiprows=1, ndmin=2)

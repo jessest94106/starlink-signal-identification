@@ -1,0 +1,41 @@
+35 tracks: 1 constant lines (not-LEO), 34 satellite-like
+stage limit 15 Hz, orbit allowance 0.5 s (clip 1.5 s): 15 candidates, 15 confirmed (total 15)
+stage limit 20 Hz, orbit allowance 0.5 s (clip 1.5 s): 2 candidates, 2 confirmed (total 17)
+stage limit 30 Hz, orbit allowance 1.0 s (clip 3.0 s): 1 candidates, 1 confirmed (total 18)
+stage limit 50 Hz, orbit allowance 2.0 s (clip 6.0 s): 3 candidates, 3 confirmed (total 21)
+track 0: confirmed SAT-63717  at stage 50 Hz / 2.0 s  rms  10.7 Hz  dt +5.44 s  sat offset -25.42 kHz
+track 1: unknown   None / None  rms inf Hz
+track 2: unknown   None / None  rms inf Hz
+track 3: not-LEO   constant line, rate -7.2 Hz/s
+track 4: confirmed SAT-58971  at stage 15 Hz / 0.5 s  rms  10.3 Hz  dt -0.97 s  sat offset -18.74 kHz
+track 5: unknown   None / None  rms inf Hz
+track 6: confirmed SAT-52643  at stage 15 Hz / 0.5 s  rms   9.3 Hz  dt +1.42 s  sat offset -0.43 kHz
+track 7: confirmed SAT-65342  at stage 50 Hz / 2.0 s  rms  34.6 Hz  dt +1.32 s  sat offset +17.31 kHz
+track 8: unknown   None / None  rms inf Hz
+track 9: unknown   None / None  rms inf Hz
+track 10: ambiguous/accepted SAT-66183 / SAT-58169  rms 12.7 Hz
+track 11: confirmed SAT-50182  at stage 30 Hz / 1.0 s  rms  14.9 Hz  dt +2.98 s  sat offset +2.04 kHz
+track 12: confirmed SAT-52346  at stage 15 Hz / 0.5 s  rms   8.5 Hz  dt +1.40 s  sat offset -6.16 kHz
+track 13: unknown   None / None  rms inf Hz
+track 14: unknown   None / None  rms inf Hz
+track 15: confirmed SAT-53718  at stage 15 Hz / 0.5 s  rms   4.4 Hz  dt +1.45 s  sat offset +2.02 kHz
+track 16: confirmed SAT-66226  at stage 15 Hz / 0.5 s  rms   2.5 Hz  dt +1.25 s  sat offset +3.00 kHz
+track 17: unknown   None / None  rms inf Hz
+track 18: confirmed SAT-53866  at stage 20 Hz / 0.5 s  rms  15.7 Hz  dt +0.54 s  sat offset -0.08 kHz
+track 19: confirmed SAT-53701  at stage 15 Hz / 0.5 s  rms   9.3 Hz  dt +1.14 s  sat offset +2.33 kHz
+track 20: unknown/accepted None / SAT-53964  rms inf Hz
+track 21: confirmed SAT-66352  at stage 15 Hz / 0.5 s  rms   1.5 Hz  dt +0.73 s  sat offset +5.25 kHz
+track 22: confirmed SAT-55647  at stage 15 Hz / 0.5 s  rms   4.8 Hz  dt -0.24 s  sat offset -2.84 kHz
+track 23: confirmed SAT-54000  at stage 50 Hz / 2.0 s  rms  43.8 Hz  dt +0.86 s  sat offset +3.35 kHz
+track 24: confirmed SAT-63703  at stage 20 Hz / 0.5 s  rms  12.2 Hz  dt +0.51 s  sat offset -1.01 kHz
+track 25: confirmed SAT-68170  at stage 15 Hz / 0.5 s  rms  12.2 Hz  dt +0.44 s  sat offset +11.28 kHz
+track 26: confirmed SAT-66396  at stage 15 Hz / 0.5 s  rms   7.9 Hz  dt +0.48 s  sat offset +8.96 kHz
+track 27: unknown   None / None  rms inf Hz
+track 28: confirmed SAT-67849  at stage 15 Hz / 0.5 s  rms   1.3 Hz  dt -0.61 s  sat offset -11.73 kHz
+track 29: confirmed SAT-53629  at stage 15 Hz / 0.5 s  rms   6.4 Hz  dt +1.24 s  sat offset -1.58 kHz
+track 30: confirmed SAT-66192  at stage 15 Hz / 0.5 s  rms   6.6 Hz  dt -0.01 s  sat offset +17.20 kHz
+track 31: confirmed SAT-66192  at stage 15 Hz / 0.5 s  rms   3.5 Hz  dt -0.66 s  sat offset +15.90 kHz
+track 32: unknown   None / None  rms inf Hz
+track 33: unknown   None / None  rms inf Hz
+track 34: confirmed SAT-62967  at stage 15 Hz / 0.5 s  rms   2.0 Hz  dt +1.21 s  sat offset +9.62 kHz
+confirmed: 21 IDs + 1 not-LEO = 22 of 35 (63%); IDs 21 of 34 satellite-like (62%)
